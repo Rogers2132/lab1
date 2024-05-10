@@ -1,0 +1,23 @@
+[
+  {
+    "firstName": "firstName-1",
+    "lastName": "lastName-1",
+    "login": "login-1",
+    "password": "password-1",
+    "token": "5eb4a942-4554-4fda-b959-23d6bf805059"
+  },
+  {
+    "firstName": "firstName-2",
+    "lastName": "lastName-2",
+    "login": "login-2",
+    "password": "password-2",
+    "token": "4756a27d-87c7-41ad-a850-4df505d5588a"
+  },
+  {
+    "firstName": "firstName-2",
+    "lastName": "lastName-2",
+    "login": "login-3",
+    "password": "password-2",
+    "token": "d8b08f14-a72a-4f5a-9d0f-497b1c1561f3"
+  }
+]
